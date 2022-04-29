@@ -1,0 +1,14 @@
+{
+  "name": "ticketbox",
+  "version": "1.0.0",
+  "description": "Testes Automátizados em ticketBox",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "author": "Marcelino Feliciano de Sousa",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^9.6.0"
+  }
+}
