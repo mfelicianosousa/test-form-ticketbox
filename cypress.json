@@ -1,1 +1,6 @@
-{}
+{
+    "projectId": "fou4dg",
+    "viewportWidth": 1440,
+    "viewportHeight": 900,
+    "baseUrl": "https://ticket-box.s3.eu-central-1.amazonaws.com/index.html"
+}

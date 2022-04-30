@@ -1,4 +1,4 @@
-# Testes Automátizados - Ticketbox
+# Testes Automátizados com Cypress - Ticketbox
 
 [TicktBox - Tela de Cadastro](https://ticket-box.s3.eu-central-1.amazonaws.com/index.html)
 
