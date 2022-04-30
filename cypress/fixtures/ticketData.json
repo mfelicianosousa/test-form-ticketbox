@@ -1,11 +1,14 @@
 {
-    "firstName": "Marcelino",
-    "lastName": "Feliciano de Sousa",
-    "email": "marcelino.feliciano@gmail.com",
-    "quantity": "4" ,
-    "typed": "vip" , 
-    "event" : "social-media" , 
-    "requests": "Chegar 30 minutos antes do horário inicial do evento",
-    "agree": true
-    
+    "signup":
+        {
+            "firstName": "Marcelino",
+            "lastName": "Feliciano de Sousa",
+            "email": "marcelino.feliciano@gmail.com",
+            "quantity": "4" ,
+            "typed": "vip" , 
+            "event" : "social-media" , 
+            "requests": "Chegar 30 minutos antes do horário inicial do evento",
+            "agree": true
+            
+        }
 }
