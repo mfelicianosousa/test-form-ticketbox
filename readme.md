@@ -1,5 +1,6 @@
-# Testes Automátizados - TicketBox
+# Testes Automátizados - Ticketbox
 
-(TicktBox - Tela de Cadastro)[https://ticket-box.s3.eu-central-1.amazonaws.com/index.html]
+[TicktBox - Tela de Cadastro](https://ticket-box.s3.eu-central-1.amazonaws.com/index.html)
 
-Preenchimento dos dados automatizado da tela de cadastro.
+Projeto de Testes automátizados desenvolvido para o preenchimento dos dados automatizado da tela de cadastro do TicketBox.
+
